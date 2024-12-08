@@ -6,8 +6,6 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/DanielMarMil" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/danielmalmir/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=antoniopaya22&show_icons=true&count_private=true&include_all_commits=true" alt="antoniopaya22" />
-
 ---
 
 
